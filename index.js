@@ -7,4 +7,4 @@ server.get('/',(req,res)=>{
         path.resolve('index.html')
     )
 });
-server.listen(800);
+server.listen(80);
