@@ -4,57 +4,112 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        .box-taiji {
-            width:0;
-            height:400px;
-            position:relative;
-            margin:50px auto;
-            border-left:200px solid #000;
-            border-right:200px solid #fff;
-            box-shadow:0 0 30px rgba(0,0,0,.5);
-            border-radius:50%;
-            animation:rotation 2.5s linear infinite;
-            -webkit-animation:rotation 2.5s linear infinite;
-            -moz-animation:rotation 2.5s linear infinite;}
-        .box-taiji:before,.box-taiji:after {
-            position:absolute;
-            content:"";
-            display:block;}
-        .box-taiji:before {
-            width:200px;
-            height:200px;
-            top:0;
-            left:-100px;
-            z-index:1;
-            background-color:#fff;
-            border-radius:50%;
-            box-shadow:0 200px 0 #000;}
-        .box-taiji:after {
-            width:60px;
-            height:60px;
-            top:70px;
-            left:-30px;
-            z-index:2;
-            background-color:#000;
-            border-radius:50%;
-            box-shadow:0 200px 0 #fff;
+        *{
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            box-sizing: inherit;
         }
 
-        @keyframes rotation {
-            0% {transform:rotate(0deg);}
-            100% {transform:rotate(360deg);}
+        .box{
+            width: 1000px;
+            height: 500px;
+            position: relative;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
         }
-        @-webkit-keyframes rotation {
-            0% {-webkit-transform:rotate(0deg);}
-            100% {-webkit-transform:rotate(360deg);}
+        .box ul{
+            width: 100%;
+            height:100%;
+            position: relative;
+            transform-style:preserve-3d;
+            animation:sssx 5s infinite ;
+            /*perspective:1000px ;*/
+            /*perspective-origin:bottom left;*/
         }
-        @-moz-keyframes rotation {
-            0% {-moz-transform:rotate(0deg);}
-            100% {-moz-transform:rotate(360deg);}
+        .box ul li{
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+            background: rgba(70,230,230,0.5);
+            box-shadow: 0 0 100px white;
+            animation:sss 5s infinite ;
+        }
+        .box .front{
+            transform:translateZ(100px);
+        }
+        .box .behind{
+            transform:translateZ(-100px);
+        }
+        .box .left{
+            transform:translateX(-100px) rotateY(90deg);
+        }
+        .box .right{
+            transform:translateX(100px) rotateY(90deg);
+        }
+        .box .top{
+            transform:translateY(-100px) rotateX(90deg);
+        }
+        .box .bottom{
+            transform:translateY(100px) rotateX(90deg);
+        }
+        @keyframes sssx{
+            0% {
+                -webkit-transform: rotateX(0deg) rotateY(0deg);
+            }
+            25% {
+                -webkit-transform: rotateX(-24deg) rotateY(40deg);
+            }
+            50% {
+                -webkit-transform: rotateX(-142deg) rotateY(112deg);
+            }
+            75% {
+                -webkit-transform: rotateX(-226deg) rotateY(200deg);
+            }
+            100% {
+                -webkit-transform: rotateX(-360deg) rotateY(360deg);
+
+            }
+        }
+        @keyframes sss {
+            0% {
+                background: rgba(235, 140, 190, 0.5);
+            }
+            25% {
+                background: rgba(135, 230, 135, 0.5);
+            }
+            50% {
+                background: rgba(70, 230, 230, 0.5);
+            }
+            75% {
+                background: rgba(40, 40, 190, 0.5);
+            }
+            100% {
+                background: rgba(165, 10, 160, 0.5);
+            }
         }
     </style>
 </head>
-<body>
-<div class="box-taiji"></div>
+<body bgcolor="black">
+
+<div class="box">
+    <ul>
+        <li class="front"></li>
+        <li class="behind"></li>
+        <li class="top"></li>
+        <li class="bottom"></li>
+        <li class="left"></li>
+        <li class="right"></li>
+    </ul>
+</div>
+
 </body>
 </html>
