@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d695fd21-05c6-44e5-8399-80464105db3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Google Chrome.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YY语音.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/3DM游戏网.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/Frozen Throne.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/HeroesLauncher.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/Main.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/PLAYERUNKNOWN'S BATTLEGROUNDS.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/115级灵力石交接.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/30级灵力石交接.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/30级自动刷灵力石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/60级自动刷灵力石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天勇.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天孤.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天寿.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天损.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天英.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天贵.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天速.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级天闲.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天勇.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天孤.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天寿.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天损.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天英.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天贵.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天速.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/三级宝石兑换/三级天闲.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/乾坤八卦仙葫礼包.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/交蛇肉.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/交鸡肉.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/兜仙殿.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/兜仙殿最后.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉5中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉5右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉5左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉7中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉7右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉7左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉9中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉9右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/六脉技能定位/六脉9左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/卡箱子BUG.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/君临10+腐骨1中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/君临10+腐骨1右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/君临10+腐骨1左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级天勇石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级天寿石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级天损石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级天速石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级宝石兑换/四级天勇石兑换封包.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级宝石兑换/四级天寿石兑换封包.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/四级宝石兑换/四级天损石兑换封包.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/天音上刘丰自动刷宝石.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/女侠客-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/女修真-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/女刺客-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/女术士-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS一级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS七级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS三级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS二级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS五级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS六级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会BOSS四级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS一级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS七级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS三级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS二级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS五级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS六级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/帮会自动BOSS/帮会BOSS四级.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/接英雄破刃之男.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/接蛇肉.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/接鸡肉.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/村庄换装备.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水七2号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水七3号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水七4号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水九2号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水九3号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水九4号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水五2号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水五3号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水五4号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水八2号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水八3号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水八4号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水六2号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水六3号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/沉水技能定位/沉水六4号位.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰5中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰5右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰5左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰7中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰7右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰7左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰9中.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰9右.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/烈焰技能定位/烈焰9左.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/猜江云真身.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/男侠客-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/男修真-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/男刺客-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/男术士-灵魂碎片自动兑换精华.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/皇城诗贤李白.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/空灵之地.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/老友任务自动交接.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动交接圣诞树.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动仍背包第一页前四行数量不限.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动使用背包第一格第二格.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动兑换天空徽章.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动兽魂加强版.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动刷师徒值新手村.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动卖第一排(1个).txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动卖第一排(5个).txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动宴请.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动幻世天尊.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动战斗圣诞树老人.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/自动整理背包第一排.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/至尊拼图.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/藏猫猫自动交接/藏猫猫左千秋.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/藏猫猫自动交接/藏猫猫灵仙岛.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/迷魂谷任务交接.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/除妖-交接1-9（开启点自动功能）.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/除妖-放弃1-9（开启点自动功能）.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/除妖-自动10.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者封包大全v3.5/鬼斧1-4层.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/1122.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/configdaqu.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/am.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/by.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/bz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/cy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/dk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/dy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/fd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/fn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/gg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/hj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/hl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/hx.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/je.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/jk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/jy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/ka.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/kn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/ku.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/lh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/ll.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/nx.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/pz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/se.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/sj.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/tp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/tu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/tx.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/wx.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/emoji/zk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/地图传送.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/天行者大区.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/天行者自定义坐标.txz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/小苹果.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/柱子传送.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/警笛声.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/跑环交任务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/跑环任务NPC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/天行者辅助专用/野外柱子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/ts/脱机教程或辅助无法打开解决方法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/三国杀.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/桃花源密码.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/桃花源记.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/1.JavaScript概述.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/10.JavaScritp数组对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/11.JavaScript字符串对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/12.JavaScritpMath对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/13.JavaScript-BOM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/14.history、location对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/15.JavaScript-DOM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/16.JavaScript事件初识.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/17.对内容、属性、样式的操作.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/18.节点的属性和方法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/19.元素尺寸和位置的属性.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/2.JavaScript基础语法.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/20.事件详解.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/21.ajax.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/22.表单操作.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/23.JavaScript日期对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/24.正则.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/3.JavaScript运算符.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/4.JavaScript流程控制.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/5.JavaScript函数.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/6JavaScript内置顶层函数.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/7.JavaScript数据类型转换.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/8.JavaScript数组.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js详细讲解/9.JavaScritp对象.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zxc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tgp.exe.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哔哩哔哩动画.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../斗鱼直播uwp.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../酷狗音乐.lnk" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1159134433">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="js" value="11" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3239" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="3239" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/no'de.js" />
+        <option value="$PROJECT_DIR$/node.js" />
+        <option value="$PROJECT_DIR$/node_modules/1.html" />
+        <option value="$PROJECT_DIR$/ceshi.html" />
+        <option value="$PROJECT_DIR$/node_modules/cxz.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/node_modules/zxc.js" />
+        <option value="$PROJECT_DIR$/zxc.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bloom-filter-x/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cheerio/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wallpaper/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-45" />
+    <option name="y" value="35" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ndd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ndd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d695fd21-05c6-44e5-8399-80464105db3a" name="Default Changelist" comment="" />
+      <created>1535508255141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535508255141</updated>
+      <workItem from="1535508256471" duration="27000" />
+      <workItem from="1535508425941" duration="17090000" />
+      <workItem from="1535589125733" duration="16605000" />
+      <workItem from="1535693997946" duration="2552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36274000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/no'de.js" />
+    <entry file="file://$PROJECT_DIR$/node.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/1.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/cxz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6244">
+          <caret line="223" column="5" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/zxc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5712">
+          <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zxc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
